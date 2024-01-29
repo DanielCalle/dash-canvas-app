@@ -1,0 +1,4 @@
+Flask
+Dash
+plotly
+pandas
